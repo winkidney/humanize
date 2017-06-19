@@ -7,13 +7,13 @@ from setuptools import setup, find_packages
 import sys, os
 import io
 
-version = '0.5.1'
+version = '0.5.2'
 
 # some trove classifiers:
 
 
 setup(
-    name='humanize',
+    name='humanize-k',
     version=version,
     description="python humanize utilities",
     long_description=io.open('README.rst', 'r', encoding="UTF-8").read(),
